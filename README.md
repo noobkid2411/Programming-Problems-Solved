@@ -1,7 +1,7 @@
 # Programming-Problems-Solved
 Practicing Solutions from LeetCode,InterviewBit
 
-**Leetcode Problems
+**Leetcode Problems**
 
 |      Problem       | Approach |  Time Complexity   |
 |    :---:           |  :---:   |     :---:          |
